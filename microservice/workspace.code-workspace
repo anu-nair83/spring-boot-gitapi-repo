@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\functional-tests"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
